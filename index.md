@@ -79,9 +79,9 @@ By the end of this course, you will be able to:
   - Turn in notebook files on Blackboard
 - **Discussions** will take place on MS Teams
 - **Slides** from lecture are available [here](https://github.com/jnear/cs211-data-privacy/tree/master/slides)
-- **Review Sheets** for exams (not yet updated for 2022):
+- **Review Sheets** for exams:
   - [Exam 1](https://github.com/jnear/cs211-data-privacy/blob/master/slides/exam1-review.md)
-  - [Exam 2](https://github.com/jnear/cs211-data-privacy/blob/master/slides/exam2-review.md)
+  - [Exam 2](https://github.com/jnear/cs211-data-privacy/blob/master/slides/exam2-review.md) (not yet updated for 2022)
 
 ## Textbook & Other References
 
@@ -244,7 +244,7 @@ Important due dates:
 
 Exam dates:
 
-- Midterm exam: Wednesday, October 11, during class (Dewey 314)
+- Midterm exam: Wednesday, October 12, during class (Dewey 314)
 - Final exam: December 15, 10:30am - 11:30am (Dewey 314)
 
 Homework dates:
@@ -255,8 +255,8 @@ Homework dates:
 | [Homework 2](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_2.ipynb) | 9/19/22  |
 | [Homework 3](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_3.ipynb) | 9/26/22  |
 | [Homework 4](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_4.ipynb) | 10/3/22  |
-| Homework 5                                                                                      | 10/17/22 |
-| Homework 6                                                                                      | 10/24/22 |
+| [Homework 5](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_5.ipynb) | 10/17/22 |
+| [Homework 6](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_6.ipynb) | 10/24/22 |
 | Homework 7                                                                                      | 10/31/22 |
 | Homework 8                                                                                      | 11/7/22  |
 | Homework 9                                                                                      | 11/14/22 |
