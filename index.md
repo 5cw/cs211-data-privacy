@@ -81,7 +81,7 @@ By the end of this course, you will be able to:
 - **Slides** from lecture are available [here](https://github.com/jnear/cs211-data-privacy/tree/master/slides)
 - **Review Sheets** for exams:
   - [Exam 1](https://github.com/jnear/cs211-data-privacy/blob/master/slides/exam1-review.md)
-  - [Exam 2](https://github.com/jnear/cs211-data-privacy/blob/master/slides/exam2-review.md) (not yet updated for 2022)
+  - [Exam 2](https://github.com/jnear/cs211-data-privacy/blob/master/slides/exam2-review.md)
 
 ## Textbook & Other References
 
@@ -249,20 +249,20 @@ Exam dates:
 
 Homework dates:
 
-| Item                                                                                            | Due Date |
-| -----------------------------------------------------------------------------------------:      | -------- |
-| [Homework 1](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_1.ipynb) | 9/12/22  |
-| [Homework 2](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_2.ipynb) | 9/19/22  |
-| [Homework 3](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_3.ipynb) | 9/26/22  |
-| [Homework 4](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_4.ipynb) | 10/3/22  |
-| [Homework 5](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_5.ipynb) | 10/17/22 |
-| [Homework 6](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_6.ipynb) | 10/24/22 |
-| [Homework 7](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_7.ipynb) | 10/31/22 |
-| [Homework 8](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_8.ipynb) | 11/7/22  |
-| [Homework 9](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_8.ipynb) | 11/14/22 |
-| Homework 10                                                                                     | 12/5/22  |
-| Project proposals                                                                               | 11/18/22 |
-| Final project writeup/video/implementation                                                      | 12/12/22 |
+| Item                                                                                              | Due Date |
+| -----------------------------------------------------------------------------------------:        | -------- |
+| [Homework 1](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_1.ipynb)   | 9/12/22  |
+| [Homework 2](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_2.ipynb)   | 9/19/22  |
+| [Homework 3](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_3.ipynb)   | 9/26/22  |
+| [Homework 4](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_4.ipynb)   | 10/3/22  |
+| [Homework 5](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_5.ipynb)   | 10/17/22 |
+| [Homework 6](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_6.ipynb)   | 10/24/22 |
+| [Homework 7](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_7.ipynb)   | 10/31/22 |
+| [Homework 8](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_8.ipynb)   | 11/7/22  |
+| [Homework 9](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_9.ipynb)   | 11/14/22 |
+| [Homework 10](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_10.ipynb) | 12/5/22  |
+| Project proposals                                                                                 | 11/18/22 |
+| Final project writeup/video/implementation                                                        | 12/12/22 |
 
 Schedule of topics:
 
